@@ -12,9 +12,9 @@ Parte dos dados usadas no projeto podem ser acessados em: http://archive.ics.uci
 
 
 
-** Pontos Importantes
-Foram gerados novos bancos a partir do já citado para treinar modelos de ML. Estes bancos contém 44 amostras cada e foram gerados a partir dos sinais dos 22 pacientes.
+# Pontos Importantes
+## Foram gerados novos bancos a partir do já citado para treinar modelos de ML. Estes bancos contém 44 amostras cada e foram gerados a partir dos sinais dos 22 pacientes.
 
-Os arquivos .csv de cada banco também estão presentes nestes repositório, cada linha deles é um slice feito a partir de algum canal dos pacientes.
+## Os arquivos .csv de cada banco também estão presentes nestes repositório, cada linha deles é um slice feito a partir de algum canal dos pacientes.
 
-Os dataset são chamados de banco_x, onde x é o número do canal em questão, variando de 1 a 4. Nestes bancos 22 linhas são de pessoas saudáveis e as outras 22 de pacientes com alguma patologia.
+## Os dataset são chamados de banco_x, onde x é o número do canal em questão, variando de 1 a 4. Nestes bancos 22 linhas são de pessoas saudáveis e as outras 22 de pacientes com alguma patologia.
