@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="IC.jpg" >
+</p>
+
+
+
 # Iniciação Científica
 
 Repositório destinado a salvar meus notebooks usados no meu projeto de pesquisa.
